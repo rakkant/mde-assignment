@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <uses language="l:ad996c65-d138-4f51-97d7-67bdd4bb8c81:DepartmentStore" />
+  <uses module="f9cb431c-5fb8-4ed7-b380-f3cca5e5d46e(DepartmentStore.runtime)" kind="rt" />
+</dependenciesRoot>
+
