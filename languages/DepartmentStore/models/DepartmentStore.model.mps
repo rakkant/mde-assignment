@@ -80,10 +80,10 @@
         <property role="TrG5h" value="Emporium Food Center" />
         <property role="1Kqwa_" value="1" />
         <property role="1K_5pt" value="2" />
-        <property role="1K_5pg" value="25" />
+        <property role="1K_5pg" value="35" />
         <property role="1K_5qa" value="300" />
         <node concept="1KrPpm" id="4E$D2TtnoF_" role="1KrPph">
-          <property role="TrG5h" value="Sushi" />
+          <property role="TrG5h" value="Mr. Sushi" />
           <property role="1KrPpl" value="5VEF0GIvJFv/japanese" />
         </node>
         <node concept="1KrPpm" id="4E$D2TtnoFC" role="1KrPph">
@@ -106,6 +106,71 @@
         <property role="1K_5pt" value="1" />
         <property role="1K_5pg" value="20" />
         <property role="1K_5qa" value="250" />
+      </node>
+    </node>
+  </node>
+  <node concept="2EU$Da" id="4E$D2Ttnpkh">
+    <property role="TrG5h" value="Central Festival" />
+    <property role="1K_5p1" value="Chiangmai" />
+    <property role="1KqGlz" value="AM Tiasakul" />
+    <node concept="1K_5pu" id="4E$D2Ttnpki" role="1K_hSE">
+      <property role="1K_5pt" value="10" />
+      <property role="1K_5pg" value="80" />
+      <property role="1K_5qa" value="700" />
+      <node concept="1K_5pP" id="4E$D2Ttnpkj" role="1KqyeX">
+        <property role="TrG5h" value=" B&amp;B Clothes" />
+        <property role="1KqwaW" value="3" />
+        <property role="1K_5pO" value="5VEF0GIvJFn/womenClothings" />
+        <property role="1K_5pt" value="1" />
+        <property role="1K_5pg" value="8" />
+        <property role="1K_5qa" value="40" />
+      </node>
+      <node concept="1K_5pP" id="4E$D2Ttnpkk" role="1KqyeX">
+        <property role="TrG5h" value="His Clothes" />
+        <property role="1KqwaW" value="2" />
+        <property role="1K_5pO" value="5VEF0GIvJFm/menClothings" />
+        <property role="1K_5pt" value="1" />
+        <property role="1K_5pg" value="7" />
+        <property role="1K_5qa" value="40" />
+      </node>
+      <node concept="1K_5pP" id="4E$D2Ttnpkl" role="1KqyeX">
+        <property role="TrG5h" value="Clothes Bear" />
+        <property role="1KqwaW" value="2" />
+        <property role="1K_5pO" value="5VEF0GIvJFq/kidsClothings" />
+        <property role="1K_5pt" value="1" />
+        <property role="1K_5pg" value="5" />
+        <property role="1K_5qa" value="20" />
+      </node>
+      <node concept="1K_5qK" id="4E$D2Ttnpkm" role="1Kqye$">
+        <property role="TrG5h" value="Food Hall" />
+        <property role="1Kqwa_" value="1" />
+        <property role="1K_5pt" value="1" />
+        <property role="1K_5pg" value="20" />
+        <property role="1K_5qa" value="200" />
+        <node concept="1KrPpm" id="4E$D2Ttnpkn" role="1KrPph">
+          <property role="TrG5h" value="Sushi Express" />
+          <property role="1KrPpl" value="5VEF0GIvJFv/japanese" />
+        </node>
+        <node concept="1KrPpm" id="4E$D2Ttnpko" role="1KrPph">
+          <property role="TrG5h" value="Pizza Hut" />
+          <property role="1KrPpl" value="5VEF0GIvJFw/italian" />
+        </node>
+        <node concept="1KrPpm" id="4E$D2Ttnpkp" role="1KrPph">
+          <property role="TrG5h" value="Coffee World" />
+          <property role="1KrPpl" value="5VEF0GIvJFz/cafe" />
+        </node>
+        <node concept="1KrPpm" id="4E$D2Ttnpkq" role="1KrPph">
+          <property role="TrG5h" value="KFC" />
+          <property role="1KrPpl" value="5VEF0GIvJFB/fastFood" />
+        </node>
+      </node>
+      <node concept="1KqydL" id="4E$D2Ttnpkr" role="1KqyeS">
+        <property role="TrG5h" value="Major IMAX Cineplex" />
+        <property role="1KqwaS" value="5" />
+        <property role="1KqydQ" value="7" />
+        <property role="1K_5pt" value="1" />
+        <property role="1K_5pg" value="20" />
+        <property role="1K_5qa" value="210" />
       </node>
     </node>
   </node>
