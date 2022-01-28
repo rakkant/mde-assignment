@@ -81,6 +81,7 @@
   <node concept="1TIwiD" id="5VEF0GIvJDl">
     <property role="EcuMT" value="6839468148140210773" />
     <property role="TrG5h" value="AbstractDepartment" />
+    <property role="R4oN_" value="an abstract class for departments (foodcourt, cinema, and clothing stores)" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyi" id="5VEF0GIvJDm" role="1TKVEl">
       <property role="IQ2nx" value="6839468148140210774" />
